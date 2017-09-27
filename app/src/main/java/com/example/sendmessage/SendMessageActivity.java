@@ -28,7 +28,7 @@ public class SendMessageActivity extends AppCompatActivity {
                 Bundle bundle = new Bundle();
                 bundle.putString("message",etxMessage.getText().toString());
                 //3. Crear un objeto Intent
-                Intent intent = new Intent();//Tiene como destinatario un activity: Explicito; sabemos cual es el destinarario. Implicito; no sabemnos cual es el destinatario
+                Intent intent = new Intent(this,ViewMessageActivity.class);//Tiene como destinatario un activity: Explicito; sabemos cual es el destinarario. Implicito; no sabemnos cual es el destinatario
 
                 //4. Iniciar la Activity ViewMessage
         }
