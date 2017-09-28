@@ -69,7 +69,10 @@
         app:layout_constraintRight_toRightOf="parent"
         tools:layout_constraintLeft_creator="1"
         android:layout_marginBottom="74dp"
-        app:layout_constraintLeft_toLeftOf="parent"
-        android:onClick="getOnClick"/>
+        app:layout_constraintLeft_toLeftOf="parent"/>
+    <!--android:onClick="getOnClick"-->
+
+
+
 
 </android.support.constraint.ConstraintLayout>

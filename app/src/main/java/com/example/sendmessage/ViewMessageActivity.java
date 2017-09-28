@@ -4,6 +4,9 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 
+/**
+ * Esta clase recibe un mensaje de un usuario y lo muestra en pantalla
+ */
 public class ViewMessageActivity extends AppCompatActivity {
 
     private TextView txvViewMessage;
