@@ -22,6 +22,7 @@ import com.example.sendmessage.POJO.Message;
  *      <li>Concepto de context</li>
  *      <li>Paso de parámetros mediante el objeto @see android.os.Bundle </li>
  *      <li>Paso de mensajes entre dos actividades mediante la clase @see android.content.Intent </li>
+ *
  * </ul>
  * @Version 2.0
  */

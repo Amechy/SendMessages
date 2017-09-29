@@ -9,6 +9,12 @@ import com.example.sendmessage.POJO.Message;
 
 /**
  * Esta clase recibe un mensaje de un usuario y lo muestra en pantalla
+ *  <p>Conceptos aprendidos</p>
+ *      <ul>
+ *          <li>Recepcion de mensajes mediante la clase android.content.Intent</li>
+ *      </ul>
+ *
+ *      //TODO 1, Recoger el Intent.
  */
 public class ViewMessageActivity extends AppCompatActivity {
 
